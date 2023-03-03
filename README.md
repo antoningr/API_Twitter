@@ -42,7 +42,7 @@ Pour récupérer les clés et les jetons d'authentification de l'API Twitter, vo
 - Acceptez les conditions d'utilisation et cliquez sur "Submit".
 
 ### Projet sur Git
-Le projet est disponible sur le site [Github](https://github.com/) sur le lien : [https://github.com/antoningr/projet_twitter_api](https://github.com/antoningr/projet_twitter_api). 
+Le projet est disponible sur le site [Github](https://github.com/) sur le lien : [https://github.com/antoningr/API_Twitter](https://github.com/antoningr/API_Twitter). 
 
 
 ### Téléchargement du projet
@@ -50,7 +50,7 @@ Le projet est disponible sur le site [Github](https://github.com/) sur le lien :
 - Allez dans le répertoire où vous souhaitez enregistrer le projet.
 - Tapez la commande suivante pour cloner le projet depuis le dépôt Git :
 ```
-git clone https://github.com/antoningr/projet_twitter_api.git
+git clone https://github.com/antoningr/API_Twitter.git
 ```
 - Appuyez sur "Entrée" pour lancer la commande. Git va alors télécharger le projet dans le répertoire actuel.
 
