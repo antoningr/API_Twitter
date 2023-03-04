@@ -30,7 +30,7 @@ L'API Twitter est utilisée dans de nombreuses applications et services, tels qu
 
 ### Prérequis du projet
 - Création d'un compte développeur Twitter et obtenir des clés d'API pour accéder à l'API Twitter.
-- [Python 3.6 ou supérieur](https://www.python.org/downloads/)
+- [Python](https://www.python.org/downloads/)
 - Tweepy
 - NLTK
 
