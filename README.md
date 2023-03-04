@@ -55,7 +55,7 @@ git clone https://github.com/antoningr/API_Twitter.git
 - Appuyez sur "Entrée" pour lancer la commande. Git va alors télécharger le projet dans le répertoire actuel.
 
 
-### COnfiguration du projet
+### Configuration du projet
 Modifier le fichier de configuration config.py dans le répertoire principal du projet et ajoutez-y les clés d'API de Twitter sous la forme suivante :
 ```
 consumer_key = "votre_consumer_key"
