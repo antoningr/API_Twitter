@@ -16,21 +16,21 @@ L'utilisation de l'API Twitter nécessite la création d'un compte développeur 
 L'API Twitter est utilisée dans de nombreuses applications et services, tels que les outils de gestion de réseaux sociaux, les applications de veille et de surveillance, les services d'analyse et de visualisation de données, les bots de conversation, etc.
 
 
-![](twitter_api.jpg)
+![](img/twitter_api.jpg)
 
 
 
 ## Information du projet
 
 - Contributeur du projet : Antonin
-- Date de la dernière mise à jour : 03 mars 2023
+- Date de la dernière mise à jour : 04 mars 2023
 
 
 ## Installation
 
 ### Prérequis du projet
 - Création d'un compte développeur Twitter et obtenir des clés d'API pour accéder à l'API Twitter.
-- [python 3.6 ou supérieur](https://www.python.org/downloads/)
+- [Python 3.6 ou supérieur](https://www.python.org/downloads/)
 - Tweepy
 - NLTK
 
@@ -55,17 +55,7 @@ git clone https://github.com/antoningr/API_Twitter.git
 - Appuyez sur "Entrée" pour lancer la commande. Git va alors télécharger le projet dans le répertoire actuel.
 
 
-### Packages python du projet
-Avant d'exécuter le projet, il faut s'assurer d'avoir tous les packages python soit correctement installé avec les bonnes versions pour pouvoir exécuter cette application. 
-- Ouvrez votre terminal ou invite de commandes.
-- Accédez au répertoire du projet à l'aide de la commande cd.
-- Installez les packages et les dépendances Python répertoriés dans le fichier requirements.txt, utilisez la commande suivante :
-```
-pip install -r requirements.txt
-```
-- Une fois l'installation terminée, vous pouvez exécuter le projet.
-
-### Packages python du projet
+### COnfiguration du projet
 Modifier le fichier de configuration config.py dans le répertoire principal du projet et ajoutez-y les clés d'API de Twitter sous la forme suivante :
 ```
 consumer_key = "votre_consumer_key"
@@ -82,4 +72,4 @@ access_token_secret = "votre_access_token_secret"
 python main.py
 ```
 
-![](logo_twitter.png)
+![](img/logo_twitter.png)
